@@ -15,4 +15,11 @@ Curated list of front end goodies - articles, tools and plugins
 
 ## Editor Plugins
 * [EditorConfig](http://editorconfig.org/)
-* [Change highlighter](https://github.com/gornostal/Modific)
+
+### Sublime
+* [File Diff](https://github.com/colinta/SublimeFileDiffs)
+* [Emmet aka ZenCoding](https://github.com/sergeche/emmet-sublime)
+* [ToDoReview](https://github.com/jonathandelgado/SublimeTodoReview) - View the list of ToDos in the project
+* [HTML/CSS/JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
+* [JSHint](https://github.com/victorporof/Sublime-JSHint)
+* [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
